@@ -1,5 +1,5 @@
 ### Привет 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F76712&lines=%D0%AF+Junior+Front-end+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=23&color=F76712&background=B9FF1900&lines=%D0%AF+Junior+Front-end+developer)](https://git.io/typing-svg)
 
 - 🌱 Сейчас я изучаю библиотеку **React**
 
