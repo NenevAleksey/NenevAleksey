@@ -18,7 +18,9 @@
 ### Планирую изичить:
 <p align="left"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
-<div align="center">
+
+![Metrics](https://metrics.lecoq.io/nenevaleksey?template=classic&base.indepth=true&repositories.forks=true&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&base.indepth=true&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.details=bytes-size%2C%20percentage%2C%20lines&languages.indepth=true&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FAlmaty)
+<!-- <div align="center">
    <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=nenevaleksey&theme=react-dark&hide_border=true&area=true" />
 <!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=nenevaleksey&theme=react-dark&hide_border=true&area=true) -->
 </div> 
@@ -28,7 +30,7 @@
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=nenevaleksey&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="nenevaleksey github stats" /> 
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenevaleksey&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=NenevAleksey&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Nenev Aleksey" /></div>
+<div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=NenevAleksey&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Nenev Aleksey" /></div> -->
 
 ### Контакты:
 - 📫 Почта: av.nenev@yandex.ru
