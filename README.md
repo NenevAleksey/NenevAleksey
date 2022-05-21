@@ -19,11 +19,13 @@
 <p align="left"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
 ### Статистика
+<div aligh='center'>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nenevaleksey&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nenevaleksey&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nenevaleksey&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nenevaleksey&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nenevaleksey&theme=radical&utcOffset=8)
+</div>
 
 ### Контакты:
 - 📫 Почта: av.nenev@yandex.ru
