@@ -30,9 +30,6 @@
 </div>
 <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=NenevAleksey&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Nenev Aleksey" /></div>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nenevaleksey&show_icons=true&locale=en&layout=compact" alt="nenevaleksey" /></p>
-
 ### Контакты:
 - 📫 Почта: av.nenev@yandex.ru
 - 🌐 Telegram: @_alekseinenev
