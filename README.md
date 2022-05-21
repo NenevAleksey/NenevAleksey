@@ -18,8 +18,14 @@
 ### Планирую изичить:
 <p align="left"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qtrixnet&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qtrixnet&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qtrixnet&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=qtrixnet&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qtrixnet&theme=radical&utcOffset=8)
 
 ![Metrics](https://metrics.lecoq.io/nenevaleksey?template=classic&base.indepth=true&repositories.forks=true&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&base.indepth=true&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.details=bytes-size%2C%20percentage%2C%20lines&languages.indepth=true&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FAlmaty)
+
 <!-- <div align="center">
    <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=nenevaleksey&theme=react-dark&hide_border=true&area=true" />
 <!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=nenevaleksey&theme=react-dark&hide_border=true&area=true) -->
